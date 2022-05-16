@@ -1,0 +1,4 @@
+org\apache\hadoop\fs\xd\XdFileSystem.class
+org\apache\hadoop\fs\xd\XdFSFileOutputStream.class
+org\apache\hadoop\fs\xd\XdFSFileInputStream.class
+org\apache\hadoop\fs\xd\XdFileSystem$XdFileStatus.class
