@@ -1,5 +1,3 @@
-[📎hadoop-xdfs-1.0.zip](https://www.yuque.com/attachments/yuque/0/2022/zip/1374390/1652711201811-0cf4aa80-fe47-4123-8158-597b836ee3fe.zip)
-
 ## 环境
 
 - 环境：windows
